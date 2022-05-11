@@ -6,10 +6,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- React
+- React Native
 - Typescript
-- Tailwind CSS
-- Axios
+- Expo
+- React Native Gesture Handler
 
 ## 💻 Projeto
 
